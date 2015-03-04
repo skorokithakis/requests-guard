@@ -8,6 +8,9 @@ Requests Guard
 .. image:: https://img.shields.io/pypi/v/requests-guard.svg
         :target: https://pypi.python.org/pypi/requests-guard
 
+.. image:: https://readthedocs.org/projects/requests-guard/badge/?version=latest
+        :target: https://readthedocs.org/projects/requests-guard/?badge=latest
+        :alt: Documentation Status
 
 requests-guard is a small library that allows you to impose size and time limits on your HTTP requests.
 
